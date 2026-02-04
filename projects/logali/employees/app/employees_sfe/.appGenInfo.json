@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Jul 25 2025 17:17:03 GMT-0400 (Venezuela Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "Local Cap",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/odata/v4/employees/",
+    "appName": "employees_sfe",
+    "appTitle": "Employees",
+    "appDescription": "Employees",
+    "appNamespace": "com.logaligroup",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.130.0",
+    "enableCodeAssist": true,
+    "enableEslint": false,
+    "enableTypeScript": true,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.18.2",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Employees"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "None"
+      }
+    ],
+    "launchText": "In order to launch the generated app, simply start your CAP project and navigate to the following location in your browser:\n\nhttp://localhost:4004/com.logaligroup.employeessfe/index.html"
+  }
+}

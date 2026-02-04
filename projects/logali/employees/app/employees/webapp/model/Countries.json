@@ -1,0 +1,1588 @@
+{
+  "Countries": [
+    {
+      "key": "AF",
+      "country": "Afganistán",
+      "flag": "https://flagsapi.com/AF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AL",
+      "country": "Albania",
+      "flag": "https://flagsapi.com/AL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DE",
+      "country": "Alemania",
+      "flag": "https://flagsapi.com/DE/shiny/64.png",
+      "regions": [
+        {
+          "name": "Berlin",
+          "cities": [
+            {
+              "name": "Berlín",
+              "postalCode": "10117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AD",
+      "country": "Andorra",
+      "flag": "https://flagsapi.com/AD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AO",
+      "country": "Angola",
+      "flag": "https://flagsapi.com/AO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AI",
+      "country": "Anguila",
+      "flag": "https://flagsapi.com/AI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AQ",
+      "country": "Antártida",
+      "flag": "https://flagsapi.com/AQ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AG",
+      "country": "Antigua y Barbuda",
+      "flag": "https://flagsapi.com/AG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SA",
+      "country": "Arabia Saudita",
+      "flag": "https://flagsapi.com/SA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DZ",
+      "country": "Argelia",
+      "flag": "https://flagsapi.com/DZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AR",
+      "country": "Argentina",
+      "flag": "https://flagsapi.com/AR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AM",
+      "country": "Armenia",
+      "flag": "https://flagsapi.com/AM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AW",
+      "country": "Aruba",
+      "flag": "https://flagsapi.com/AW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AU",
+      "country": "Australia",
+      "flag": "https://flagsapi.com/AU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AT",
+      "country": "Austria",
+      "flag": "https://flagsapi.com/AT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AZ",
+      "country": "Azerbaiyán",
+      "flag": "https://flagsapi.com/AZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BS",
+      "country": "Bahamas",
+      "flag": "https://flagsapi.com/BS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BD",
+      "country": "Bangladés",
+      "flag": "https://flagsapi.com/BD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BB",
+      "country": "Barbados",
+      "flag": "https://flagsapi.com/BB/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BH",
+      "country": "Baréin",
+      "flag": "https://flagsapi.com/BH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BE",
+      "country": "Bélgica",
+      "flag": "https://flagsapi.com/BE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BZ",
+      "country": "Belice",
+      "flag": "https://flagsapi.com/BZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BJ",
+      "country": "Benín",
+      "flag": "https://flagsapi.com/BJ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BM",
+      "country": "Bermudas",
+      "flag": "https://flagsapi.com/BM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BY",
+      "country": "Bielorrusia",
+      "flag": "https://flagsapi.com/BY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BO",
+      "country": "Bolivia",
+      "flag": "https://flagsapi.com/BO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BQ",
+      "country": "Bonaire, San Eustaquio y Saba",
+      "flag": "https://flagsapi.com/BQ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BA",
+      "country": "Bosnia y Herzegovina",
+      "flag": "https://flagsapi.com/BA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BW",
+      "country": "Botsuana",
+      "flag": "https://flagsapi.com/BW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BR",
+      "country": "Brasil",
+      "flag": "https://flagsapi.com/BR/shiny/64.png",
+      "regions": [
+        {
+          "name": "SP",
+          "cities": [
+            {
+              "name": "São Paulo",
+              "postalCode": "01001-000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "BN",
+      "country": "Brunéi",
+      "flag": "https://flagsapi.com/BN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BG",
+      "country": "Bulgaria",
+      "flag": "https://flagsapi.com/BG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BF",
+      "country": "Burkina Faso",
+      "flag": "https://flagsapi.com/BF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BI",
+      "country": "Burundi",
+      "flag": "https://flagsapi.com/BI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BT",
+      "country": "Bután",
+      "flag": "https://flagsapi.com/BT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CV",
+      "country": "Cabo Verde",
+      "flag": "https://flagsapi.com/CV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KH",
+      "country": "Camboya",
+      "flag": "https://flagsapi.com/KH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CM",
+      "country": "Camerún",
+      "flag": "https://flagsapi.com/CM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CA",
+      "country": "Canadá",
+      "flag": "https://flagsapi.com/CA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "QA",
+      "country": "Catar",
+      "flag": "https://flagsapi.com/QA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TD",
+      "country": "Chad",
+      "flag": "https://flagsapi.com/TD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CZ",
+      "country": "Chequia",
+      "flag": "https://flagsapi.com/CZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CL",
+      "country": "Chile",
+      "flag": "https://flagsapi.com/CL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CN",
+      "country": "China",
+      "flag": "https://flagsapi.com/CN/shiny/64.png",
+      "regions": [
+        {
+          "name": "Shanghai",
+          "cities": [
+            {
+              "name": "Shanghai",
+              "postalCode": "200000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "CY",
+      "country": "Chipre",
+      "flag": "https://flagsapi.com/CY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VA",
+      "country": "Ciudad del Vaticano",
+      "flag": "https://flagsapi.com/VA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CO",
+      "country": "Colombia",
+      "flag": "https://flagsapi.com/CO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KM",
+      "country": "Comoras",
+      "flag": "https://flagsapi.com/KM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CG",
+      "country": "Congo",
+      "flag": "https://flagsapi.com/CG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CD",
+      "country": "Congo (Rep. Dem.)",
+      "flag": "https://flagsapi.com/CD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KP",
+      "country": "Corea del Norte",
+      "flag": "https://flagsapi.com/KP/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KR",
+      "country": "Corea del Sur",
+      "flag": "https://flagsapi.com/KR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CR",
+      "country": "Costa Rica",
+      "flag": "https://flagsapi.com/CR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CI",
+      "country": "Costa de Marfil",
+      "flag": "https://flagsapi.com/CI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HR",
+      "country": "Croacia",
+      "flag": "https://flagsapi.com/HR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CU",
+      "country": "Cuba",
+      "flag": "https://flagsapi.com/CU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CW",
+      "country": "Curazao",
+      "flag": "https://flagsapi.com/CW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DK",
+      "country": "Dinamarca",
+      "flag": "https://flagsapi.com/DK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DM",
+      "country": "Dominica",
+      "flag": "https://flagsapi.com/DM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "EC",
+      "country": "Ecuador",
+      "flag": "https://flagsapi.com/EC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "EG",
+      "country": "Egipto",
+      "flag": "https://flagsapi.com/EG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SV",
+      "country": "El Salvador",
+      "flag": "https://flagsapi.com/SV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AE",
+      "country": "Emiratos Árabes Unidos",
+      "flag": "https://flagsapi.com/AE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ER",
+      "country": "Eritrea",
+      "flag": "https://flagsapi.com/ER/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SK",
+      "country": "Eslovaquia",
+      "flag": "https://flagsapi.com/SK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SI",
+      "country": "Eslovenia",
+      "flag": "https://flagsapi.com/SI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ES",
+      "country": "España",
+      "flag": "https://flagsapi.com/ES/shiny/64.png",
+      "regions": [
+        {
+          "name": "Comunidad de Madrid",
+          "cities": [
+            {
+              "name": "Madrid",
+              "postalCode": "28021"
+            }
+          ]
+        },
+        {
+          "name": "Andalucía",
+          "cities": [
+            {
+              "name": "Granada",
+              "postalCode": "18008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "US",
+      "country": "Estados Unidos",
+      "flag": "https://flagsapi.com/US/shiny/64.png",
+      "regions": [
+        {
+          "name": "WA",
+          "cities": [
+            {
+              "name": "Seattle",
+              "postalCode": "98052"
+            },
+            {
+              "name": "Redmond",
+              "postalCode": "08025"
+            },
+            {
+              "name": "Tacoma",
+              "postalCode": "98401"
+            }
+          ]
+        },
+        {
+          "name": "NY",
+          "cities": [
+            {
+              "name": "New York",
+              "postalCode": "10001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "EE",
+      "country": "Estonia",
+      "flag": "https://flagsapi.com/EE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SZ",
+      "country": "Esuatini",
+      "flag": "https://flagsapi.com/SZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ET",
+      "country": "Etiopía",
+      "flag": "https://flagsapi.com/ET/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PH",
+      "country": "Filipinas",
+      "flag": "https://flagsapi.com/PH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "FI",
+      "country": "Finlandia",
+      "flag": "https://flagsapi.com/FI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "FJ",
+      "country": "Fiyi",
+      "flag": "https://flagsapi.com/FJ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "FR",
+      "country": "Francia",
+      "flag": "https://flagsapi.com/FR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GA",
+      "country": "Gabón",
+      "flag": "https://flagsapi.com/GA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GM",
+      "country": "Gambia",
+      "flag": "https://flagsapi.com/GM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GE",
+      "country": "Georgia",
+      "flag": "https://flagsapi.com/GE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GH",
+      "country": "Ghana",
+      "flag": "https://flagsapi.com/GH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GI",
+      "country": "Gibraltar",
+      "flag": "https://flagsapi.com/GI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GD",
+      "country": "Granada",
+      "flag": "https://flagsapi.com/GD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GR",
+      "country": "Grecia",
+      "flag": "https://flagsapi.com/GR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GL",
+      "country": "Groenlandia",
+      "flag": "https://flagsapi.com/GL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GP",
+      "country": "Guadalupe",
+      "flag": "https://flagsapi.com/GP/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GU",
+      "country": "Guam",
+      "flag": "https://flagsapi.com/GU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GT",
+      "country": "Guatemala",
+      "flag": "https://flagsapi.com/GT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GF",
+      "country": "Guayana Francesa",
+      "flag": "https://flagsapi.com/GF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GG",
+      "country": "Guernsey",
+      "flag": "https://flagsapi.com/GG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GN",
+      "country": "Guinea",
+      "flag": "https://flagsapi.com/GN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GW",
+      "country": "Guinea-Bisáu",
+      "flag": "https://flagsapi.com/GW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GQ",
+      "country": "Guinea Ecuatorial",
+      "flag": "https://flagsapi.com/GQ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GY",
+      "country": "Guyana",
+      "flag": "https://flagsapi.com/GY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HT",
+      "country": "Haití",
+      "flag": "https://flagsapi.com/HT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HN",
+      "country": "Honduras",
+      "flag": "https://flagsapi.com/HN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HK",
+      "country": "Hong Kong",
+      "flag": "https://flagsapi.com/HK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HU",
+      "country": "Hungría",
+      "flag": "https://flagsapi.com/HU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IN",
+      "country": "India",
+      "flag": "https://flagsapi.com/IN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ID",
+      "country": "Indonesia",
+      "flag": "https://flagsapi.com/ID/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IQ",
+      "country": "Irak",
+      "flag": "https://flagsapi.com/IQ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IR",
+      "country": "Irán",
+      "flag": "https://flagsapi.com/IR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IE",
+      "country": "Irlanda",
+      "flag": "https://flagsapi.com/IE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BV",
+      "country": "Isla Bouvet",
+      "flag": "https://flagsapi.com/BV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CX",
+      "country": "Isla de Navidad",
+      "flag": "https://flagsapi.com/CX/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IM",
+      "country": "Isla de Man",
+      "flag": "https://flagsapi.com/IM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NF",
+      "country": "Isla Norfolk",
+      "flag": "https://flagsapi.com/NF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IS",
+      "country": "Islandia",
+      "flag": "https://flagsapi.com/IS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AX",
+      "country": "Islas Åland",
+      "flag": "https://flagsapi.com/AX/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KY",
+      "country": "Islas Caimán",
+      "flag": "https://flagsapi.com/KY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CC",
+      "country": "Islas Cocos",
+      "flag": "https://flagsapi.com/CC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CK",
+      "country": "Islas Cook",
+      "flag": "https://flagsapi.com/CK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "FO",
+      "country": "Islas Feroe",
+      "flag": "https://flagsapi.com/FO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GS",
+      "country": "Islas Georgias del Sur y Sandwich del Sur",
+      "flag": "https://flagsapi.com/GS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "HM",
+      "country": "Islas Heard y McDonald",
+      "flag": "https://flagsapi.com/HM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "FK",
+      "country": "Islas Malvinas",
+      "flag": "https://flagsapi.com/FK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MP",
+      "country": "Islas Marianas del Norte",
+      "flag": "https://flagsapi.com/MP/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MH",
+      "country": "Islas Marshall",
+      "flag": "https://flagsapi.com/MH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PN",
+      "country": "Islas Pitcairn",
+      "flag": "https://flagsapi.com/PN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SB",
+      "country": "Islas Salomón",
+      "flag": "https://flagsapi.com/SB/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TC",
+      "country": "Islas Turcas y Caicos",
+      "flag": "https://flagsapi.com/TC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VG",
+      "country": "Islas Vírgenes Británicas",
+      "flag": "https://flagsapi.com/VG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VI",
+      "country": "Islas Vírgenes de los Estados Unidos",
+      "flag": "https://flagsapi.com/VI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IL",
+      "country": "Israel",
+      "flag": "https://flagsapi.com/IL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IT",
+      "country": "Italia",
+      "flag": "https://flagsapi.com/IT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "JM",
+      "country": "Jamaica",
+      "flag": "https://flagsapi.com/JM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "JP",
+      "country": "Japón",
+      "flag": "https://flagsapi.com/JP/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "JE",
+      "country": "Jersey",
+      "flag": "https://flagsapi.com/JE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "JO",
+      "country": "Jordania",
+      "flag": "https://flagsapi.com/JO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KZ",
+      "country": "Kazajistán",
+      "flag": "https://flagsapi.com/KZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KE",
+      "country": "Kenia",
+      "flag": "https://flagsapi.com/KE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KG",
+      "country": "Kirguistán",
+      "flag": "https://flagsapi.com/KG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KI",
+      "country": "Kiribati",
+      "flag": "https://flagsapi.com/KI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KW",
+      "country": "Kuwait",
+      "flag": "https://flagsapi.com/KW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LA",
+      "country": "Laos",
+      "flag": "https://flagsapi.com/LA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LS",
+      "country": "Lesoto",
+      "flag": "https://flagsapi.com/LS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LV",
+      "country": "Letonia",
+      "flag": "https://flagsapi.com/LV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LB",
+      "country": "Líbano",
+      "flag": "https://flagsapi.com/LB/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LR",
+      "country": "Liberia",
+      "flag": "https://flagsapi.com/LR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LY",
+      "country": "Libia",
+      "flag": "https://flagsapi.com/LY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LI",
+      "country": "Liechtenstein",
+      "flag": "https://flagsapi.com/LI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LT",
+      "country": "Lituania",
+      "flag": "https://flagsapi.com/LT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LU",
+      "country": "Luxemburgo",
+      "flag": "https://flagsapi.com/LU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MO",
+      "country": "Macao",
+      "flag": "https://flagsapi.com/MO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MK",
+      "country": "Macedonia del Norte",
+      "flag": "https://flagsapi.com/MK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MG",
+      "country": "Madagascar",
+      "flag": "https://flagsapi.com/MG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MY",
+      "country": "Malasia",
+      "flag": "https://flagsapi.com/MY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MW",
+      "country": "Malaui",
+      "flag": "https://flagsapi.com/MW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MV",
+      "country": "Maldivas",
+      "flag": "https://flagsapi.com/MV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ML",
+      "country": "Malí",
+      "flag": "https://flagsapi.com/ML/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MT",
+      "country": "Malta",
+      "flag": "https://flagsapi.com/MT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MA",
+      "country": "Marruecos",
+      "flag": "https://flagsapi.com/MA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MQ",
+      "country": "Martinica",
+      "flag": "https://flagsapi.com/MQ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MU",
+      "country": "Mauricio",
+      "flag": "https://flagsapi.com/MU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MR",
+      "country": "Mauritania",
+      "flag": "https://flagsapi.com/MR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "YT",
+      "country": "Mayotte",
+      "flag": "https://flagsapi.com/YT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MX",
+      "country": "México",
+      "flag": "https://flagsapi.com/MX/shiny/64.png",
+      "regions": [
+        {
+          "name": "CDMX",
+          "cities": [
+            {
+              "name": "México",
+              "postalCode": "06600"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "FM",
+      "country": "Micronesia",
+      "flag": "https://flagsapi.com/FM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MD",
+      "country": "Moldavia",
+      "flag": "https://flagsapi.com/MD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MC",
+      "country": "Mónaco",
+      "flag": "https://flagsapi.com/MC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MN",
+      "country": "Mongolia",
+      "flag": "https://flagsapi.com/MN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ME",
+      "country": "Montenegro",
+      "flag": "https://flagsapi.com/ME/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MS",
+      "country": "Montserrat",
+      "flag": "https://flagsapi.com/MS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MZ",
+      "country": "Mozambique",
+      "flag": "https://flagsapi.com/MZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MM",
+      "country": "Myanmar (Birmania)",
+      "flag": "https://flagsapi.com/MM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NA",
+      "country": "Namibia",
+      "flag": "https://flagsapi.com/NA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NR",
+      "country": "Nauru",
+      "flag": "https://flagsapi.com/NR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NP",
+      "country": "Nepal",
+      "flag": "https://flagsapi.com/NP/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NI",
+      "country": "Nicaragua",
+      "flag": "https://flagsapi.com/NI/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NE",
+      "country": "Níger",
+      "flag": "https://flagsapi.com/NE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NG",
+      "country": "Nigeria",
+      "flag": "https://flagsapi.com/NG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NU",
+      "country": "Niue",
+      "flag": "https://flagsapi.com/NU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NO",
+      "country": "Noruega",
+      "flag": "https://flagsapi.com/NO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NC",
+      "country": "Nueva Caledonia",
+      "flag": "https://flagsapi.com/NC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NZ",
+      "country": "Nueva Zelanda",
+      "flag": "https://flagsapi.com/NZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "OM",
+      "country": "Omán",
+      "flag": "https://flagsapi.com/OM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "NL",
+      "country": "Países Bajos",
+      "flag": "https://flagsapi.com/NL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PK",
+      "country": "Pakistán",
+      "flag": "https://flagsapi.com/PK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PW",
+      "country": "Palaos",
+      "flag": "https://flagsapi.com/PW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PS",
+      "country": "Palestina",
+      "flag": "https://flagsapi.com/PS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PA",
+      "country": "Panamá",
+      "flag": "https://flagsapi.com/PA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PG",
+      "country": "Papúa Nueva Guinea",
+      "flag": "https://flagsapi.com/PG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PY",
+      "country": "Paraguay",
+      "flag": "https://flagsapi.com/PY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PE",
+      "country": "Perú",
+      "flag": "https://flagsapi.com/PE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PF",
+      "country": "Polinesia Francesa",
+      "flag": "https://flagsapi.com/PF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PL",
+      "country": "Polonia",
+      "flag": "https://flagsapi.com/PL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PT",
+      "country": "Portugal",
+      "flag": "https://flagsapi.com/PT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PR",
+      "country": "Puerto Rico",
+      "flag": "https://flagsapi.com/PR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "GB",
+      "country": "Reino Unido",
+      "flag": "https://flagsapi.com/GB/shiny/64.png",
+      "regions": [
+        {
+          "name": "London",
+          "cities": [
+            {
+              "name": "London",
+              "postalCode": "67059"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "CF",
+      "country": "República Centroafricana",
+      "flag": "https://flagsapi.com/CF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DO",
+      "country": "República Dominicana",
+      "flag": "https://flagsapi.com/DO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "RE",
+      "country": "Reunión",
+      "flag": "https://flagsapi.com/RE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "RW",
+      "country": "Ruanda",
+      "flag": "https://flagsapi.com/RW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "RO",
+      "country": "Rumania",
+      "flag": "https://flagsapi.com/RO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "RU",
+      "country": "Rusia",
+      "flag": "https://flagsapi.com/RU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "EH",
+      "country": "Sáhara Occidental",
+      "flag": "https://flagsapi.com/EH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "WS",
+      "country": "Samoa",
+      "flag": "https://flagsapi.com/WS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "AS",
+      "country": "Samoa Americana",
+      "flag": "https://flagsapi.com/AS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "BL",
+      "country": "San Bartolomé",
+      "flag": "https://flagsapi.com/BL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "KN",
+      "country": "San Cristóbal y Nieves",
+      "flag": "https://flagsapi.com/KN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SM",
+      "country": "San Marino",
+      "flag": "https://flagsapi.com/SM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "MF",
+      "country": "San Martín (parte francesa)",
+      "flag": "https://flagsapi.com/MF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SX",
+      "country": "San Martín (parte neerlandesa)",
+      "flag": "https://flagsapi.com/SX/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "PM",
+      "country": "San Pedro y Miquelón",
+      "flag": "https://flagsapi.com/PM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VC",
+      "country": "San Vicente y las Granadinas",
+      "flag": "https://flagsapi.com/VC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SH",
+      "country": "Santa Elena, Ascensión y Tristán de Acuña",
+      "flag": "https://flagsapi.com/SH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LC",
+      "country": "Santa Lucía",
+      "flag": "https://flagsapi.com/LC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ST",
+      "country": "Santo Tomé y Príncipe",
+      "flag": "https://flagsapi.com/ST/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SN",
+      "country": "Senegal",
+      "flag": "https://flagsapi.com/SN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "RS",
+      "country": "Serbia",
+      "flag": "https://flagsapi.com/RS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SC",
+      "country": "Seychelles",
+      "flag": "https://flagsapi.com/SC/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SL",
+      "country": "Sierra Leona",
+      "flag": "https://flagsapi.com/SL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SG",
+      "country": "Singapur",
+      "flag": "https://flagsapi.com/SG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SY",
+      "country": "Siria",
+      "flag": "https://flagsapi.com/SY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SO",
+      "country": "Somalia",
+      "flag": "https://flagsapi.com/SO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "LK",
+      "country": "Sri Lanka",
+      "flag": "https://flagsapi.com/LK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ZA",
+      "country": "Sudáfrica",
+      "flag": "https://flagsapi.com/ZA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SD",
+      "country": "Sudán",
+      "flag": "https://flagsapi.com/SD/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SS",
+      "country": "Sudán del Sur",
+      "flag": "https://flagsapi.com/SS/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SE",
+      "country": "Suecia",
+      "flag": "https://flagsapi.com/SE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "CH",
+      "country": "Suiza",
+      "flag": "https://flagsapi.com/CH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SR",
+      "country": "Surinam",
+      "flag": "https://flagsapi.com/SR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "SJ",
+      "country": "Svalbard y Jan Mayen",
+      "flag": "https://flagsapi.com/SJ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TH",
+      "country": "Tailandia",
+      "flag": "https://flagsapi.com/TH/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TW",
+      "country": "Taiwán",
+      "flag": "https://flagsapi.com/TW/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TZ",
+      "country": "Tanzania",
+      "flag": "https://flagsapi.com/TZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TJ",
+      "country": "Tayikistán",
+      "flag": "https://flagsapi.com/TJ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "IO",
+      "country": "Territorio Británico del Océano Índico",
+      "flag": "https://flagsapi.com/IO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TF",
+      "country": "Territorios Australes Franceses",
+      "flag": "https://flagsapi.com/TF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TL",
+      "country": "Timor-Leste",
+      "flag": "https://flagsapi.com/TL/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TG",
+      "country": "Togo",
+      "flag": "https://flagsapi.com/TG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TK",
+      "country": "Tokelau",
+      "flag": "https://flagsapi.com/TK/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TO",
+      "country": "Tonga",
+      "flag": "https://flagsapi.com/TO/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TT",
+      "country": "Trinidad y Tobago",
+      "flag": "https://flagsapi.com/TT/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TN",
+      "country": "Túnez",
+      "flag": "https://flagsapi.com/TN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TR",
+      "country": "Turquía",
+      "flag": "https://flagsapi.com/TR/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TM",
+      "country": "Turkmenistán",
+      "flag": "https://flagsapi.com/TM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "TV",
+      "country": "Tuvalu",
+      "flag": "https://flagsapi.com/TV/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "UA",
+      "country": "Ucrania",
+      "flag": "https://flagsapi.com/UA/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "UG",
+      "country": "Uganda",
+      "flag": "https://flagsapi.com/UG/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "UY",
+      "country": "Uruguay",
+      "flag": "https://flagsapi.com/UY/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "UZ",
+      "country": "Uzbekistán",
+      "flag": "https://flagsapi.com/UZ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VU",
+      "country": "Vanuatu",
+      "flag": "https://flagsapi.com/VU/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VE",
+      "country": "Venezuela",
+      "flag": "https://flagsapi.com/VE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "VN",
+      "country": "Vietnam",
+      "flag": "https://flagsapi.com/VN/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "WF",
+      "country": "Wallis y Futuna",
+      "flag": "https://flagsapi.com/WF/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "YE",
+      "country": "Yemen",
+      "flag": "https://flagsapi.com/YE/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "DJ",
+      "country": "Yibuti",
+      "flag": "https://flagsapi.com/DJ/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ZM",
+      "country": "Zambia",
+      "flag": "https://flagsapi.com/ZM/shiny/64.png",
+      "regions": []
+    },
+    {
+      "key": "ZW",
+      "country": "Zimbabue",
+      "flag": "https://flagsapi.com/ZW/shiny/64.png",
+      "regions": []
+    }
+  ]
+}

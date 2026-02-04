@@ -1,0 +1,90 @@
+ID,City,Region_ID
+1a2b3c4d-5e6f-4a7b-8c9d-0e1f2a3b4c5d,Los Angeles,c8c1f9e2-4f3b-4c2a-9e8d-7b6a5c4d3e2f
+2b3c4d5e-6f7a-4b8c-9d0e-1f2a3b4c5d6e,San Francisco,c8c1f9e2-4f3b-4c2a-9e8d-7b6a5c4d3e2f
+3c4d5e6f-7a8b-4c9d-8e1f-2a3b4c5d6e7f,San Diego,c8c1f9e2-4f3b-4c2a-9e8d-7b6a5c4d3e2f
+4d5e6f7a-8b9c-4d0e-1f2a-3b4c5d6e7f8g,Houston,d9e2a0b3-5a4c-4d3b-8f9e-8c7b6a5d4e3f
+5e6f7a8b-9c0d-4e1f-2a3b-4c5d6e7f8g9h,Dallas,d9e2a0b3-5a4c-4d3b-8f9e-8c7b6a5d4e3f
+6f7a8b9c-0d1e-4f2a-3b4c-5d6e7f8g9h0i,Austin,d9e2a0b3-5a4c-4d3b-8f9e-8c7b6a5d4e3f
+7a8b9c0d-1e2f-4a3b-4c5d-6e7f8g9h0i1j,Miami,e0f3b1c4-6b5d-4e4c-9a0f-9d8c7b6a5e4g
+8b9c0d1e-2f3a-4b4c-5d6e-7f8g9h0i1j2k,Orlando,e0f3b1c4-6b5d-4e4c-9a0f-9d8c7b6a5e4g
+9c0d1e2f-3a4b-4c5d-6e7f-8g9h0i1j2k3l,New York City,f1a4c2d5-7c6e-4f5d-8b1a-0e9d8c7b6f5h
+a0d1e2f3-a4b5-4d6e-7f8g-9h0i1j2k3l4m,Buffalo,f1a4c2d5-7c6e-4f5d-8b1a-0e9d8c7b6f5h
+b1e2f3a4-b5c6-4e7f-8g9h-0i1j2k3l4m5n,Chicago,a2b5d3e6-8d7f-4a6e-9c2b-1f0e9d8c7a6i
+c2f3a4b5-c6d7-4f8g-9h0i-1j2k3l4m5n6o,Springfield,a2b5d3e6-8d7f-4a6e-9c2b-1f0e9d8c7a6i
+d3a4b5c6-d7e8-4g9h-0i1j-2k3l4m5n6o7p,Philadelphia,b3c6e4f7-9e8a-4b7f-8d3c-2a1f0e9d8b7j
+e4b5c6d7-e8f9-4h0i-1j2k-3l4m5n6o7p8q,Pittsburgh,b3c6e4f7-9e8a-4b7f-8d3c-2a1f0e9d8b7j
+f5c6d7e8-f9a0-4i1j-2k3l-4m5n6o7p8q9r,Toronto,c4d7f5a8-0f9b-4c8a-9e4d-3b2a1f0e9c8k
+a6d7e8f9-a0b1-4j2k-3l4m-5n6o7p8q9r0s,Ottawa,c4d7f5a8-0f9b-4c8a-9e4d-3b2a1f0e9c8k
+b7e8f9a0-b1c2-4k3l-4m5n-6o7p8q9r0s1t,Montreal,d5e8a6b9-1a0c-4d9b-8f5e-4c3b2a1f0d9l
+c8f9a0b1-c2d3-4l4m-5n6o-7p8q9r0s1t2u,Quebec City,d5e8a6b9-1a0c-4d9b-8f5e-4c3b2a1f0d9l
+d9a0b1c2-d3e4-4m5n-6o7p-8q9r0s1t2u3v,Vancouver,e6f9b7ca-2b1d-4e0c-9a6f-5d4c3b2a1e0m
+e0b1c2d3-e4f5-4n6o-7p8q-9r0s1t2u3v4w,Victoria,e6f9b7ca-2b1d-4e0c-9a6f-5d4c3b2a1e0m
+f1c2d3e4-f5a6-4o7p-8q9r-0s1t2u3v4w5x,Calgary,f7a0c8db-3c2e-4f1d-8b7a-6e5d4c3b2f1n
+a2d3e4f5-a6b7-4p8q-9r0s-1t2u3v4w5x6y,Edmonton,f7a0c8db-3c2e-4f1d-8b7a-6e5d4c3b2f1n
+b3c4d5e6-f7a8-4q9r-0s1t-2u3v4w5x6y7z,Sevilla,a8b1d9ec-4d3f-4a2e-9c8b-7f6e5d4c3a2o
+c4d5e6f7-a8b9-4r0s-1t2u-3v4w5x6y7z8a,Málaga,a8b1d9ec-4d3f-4a2e-9c8b-7f6e5d4c3a2o
+d5e6f7a8-b9c0-4s1t-2u3v-4w5x6y7z8a9b,Granada,a8b1d9ec-4d3f-4a2e-9c8b-7f6e5d4c3a2o
+e6f7a8b9-c0d1-4t2u-3v4w-5x6y7z8a9b0c,Barcelona,b9c2e0fd-5e4a-4b3f-8d9c-8a7f6e5d4b3p
+f7a8b9c0-d1e2-4u3v-4w5x-6y7z8a9b0c1d,Tarragona,b9c2e0fd-5e4a-4b3f-8d9c-8a7f6e5d4b3p
+a8b9c0d1-e2f3-4v4w-5x6y-7z8a9b0c1d2e,Madrid,c0d3f1ae-6f5b-4c4a-9e0d-9b8a7f6e5c4q
+b9c0d1e2-f3a4-4w5x-6y7z-8a9b0c1d2e3f,Santiago de Compostela,d1e4a2bf-7a6c-4d5b-8f1e-0c9b8a7f6d5r
+c0d1e2f3-a4b5-4x6y-7z8a-9b0c1d2e3f4g,Vigo,d1e4a2bf-7a6c-4d5b-8f1e-0c9b8a7f6d5r
+d1e2f3a4-b5c6-4y7z-8a9b-0c1d2e3f4g5h,Bilbao,e2f5b3ca-8b7d-4e6c-9a2f-1d0c9b8a7e6s
+e2f3a4b5-c6d7-4z8a-9b0c-1d2e3f4g5h6i,San Sebastián,e2f5b3ca-8b7d-4e6c-9a2f-1d0c9b8a7e6s
+f3a4b5c6-d7e8-4a9b-0c1d-2e3f4g5h6i7j,Valencia,f3a6c4db-9c8e-4f7d-8b3a-2e1d0c9b8f7t
+a4b5c6d7-e8f9-4b0c-1d2e-3f4g5h6i7j8k,Alicante,f3a6c4db-9c8e-4f7d-8b3a-2e1d0c9b8f7t
+b5c6d7e8-f9a0-4c1d-2e3f-4g5h6i7j8k9l,Munich,a4b7d5ec-0d9f-4a8e-9c4b-3f2e1d0c9a8u
+c6d7e8f9-a0b1-4d2e-3f4g-5h6i7j8k9l0m,Nuremberg,a4b7d5ec-0d9f-4a8e-9c4b-3f2e1d0c9a8u
+d7e8f9a0-b1c2-4e3f-4g5h-6i7j8k9l0m1n,Berlin,b5c8e6fd-1e0a-4b9f-8d5c-4a3f2e1d0b9v
+e8f9a0b1-c2d3-4f4a-5h6i-7j8k9l0m1n2o,Frankfurt,c6d9f7ae-2f1b-4ca0-9e6d-5b4a3f2e1ca0
+f9a0b1c2-d3e4-4a5b-6i7j-8k9l0m1n2o3p,Wiesbaden,c6d9f7ae-2f1b-4ca0-9e6d-5b4a3f2e1ca0
+a0b1c2d3-e4f5-4b6c-7j8k-9l0m1n2o3p4q,Cologne,d7e0a8bf-3a2c-4db1-8f7e-6c5b4a3f2db1
+b1c2d3e4-f5a6-4c7d-8k9l-0m1n2o3p4q5r,Düsseldorf,d7e0a8bf-3a2c-4db1-8f7e-6c5b4a3f2db1
+c2d3e4f5-a6b7-4d8e-9l0m-1n2o3p4q5r6s,London,e8f1b9ca-4b3d-4ec2-9a8f-7d6c5b4a3ec2
+d3e4f5a6-b7c8-4e9f-0m1n-2o3p4q5r6s7t,Manchester,e8f1b9ca-4b3d-4ec2-9a8f-7d6c5b4a3ec2
+e4f5a6b7-c8d9-4f0a-1n2o-3p4q5r6s7t8u,Liverpool,e8f1b9ca-4b3d-4ec2-9a8f-7d6c5b4a3ec2
+f5a6b7c8-d9e0-4a1b-2o3p-4q5r6s7t8u9v,Edinburgh,f9a2cadb-5c4e-4fd3-8b9a-8e7d6c5b4fd3
+a6b7c8d9-e0f1-4b2c-3p4q-5r6s7t8u9v0w,Glasgow,f9a2cadb-5c4e-4fd3-8b9a-8e7d6c5b4fd3
+b7c8d9e0-f1a2-4c3d-4q5r-6s7t8u9v0w1x,Cardiff,a0b3dbec-6d5f-4a44-9caf-9f8e7d6c5ae4
+c8d9e0f1-a2b3-4d4e-5r6s-7t8u9v0w1x2y,Swansea,a0b3dbec-6d5f-4a44-9caf-9f8e7d6c5ae4
+d9e0f1a2-b3c4-4e5f-6s7t-8u9v0w1x2y3z,Belfast,b1c4ecfd-7e6a-4b55-8db0-0a9f8e7d6bf5
+e0f1a2b3-c4d5-4f6a-7t8u-9v0w1x2y3z4a,Paris,c2d5fdae-8f7b-4c66-9ec1-1ba09f8e7ca6
+f1a2b3c4-d5e6-4a7b-8u9v-0w1x2y3z4a5b,Marseille,d3e6aebf-9a8c-4d77-8fd2-2cb1ba09f8d7
+a2b3c4d5-e6f7-4b8c-9v0w-1x2y3z4a5b6c,Nice,d3e6aebf-9a8c-4d77-8fd2-2cb1ba09f8d7
+b3c4d5e6-f7a8-4c9d-0w1x-2y3z4a5b6c7d,Toulouse,e4f7bfca-0b9d-4e88-9ae3-3dc2cb1ba9e8
+c4d5e6f7-a8b9-4d0e-1x2y-3z4a5b6c7d8e,Montpellier,e4f7bfca-0b9d-4e88-9ae3-3dc2cb1ba9e8
+d5e6f7a8-b9c0-4e1f-2y3z-4a5b6c7d8e9f,Lyon,f5a8cadb-1cae-4f99-8bf4-4ed3dc2cbaf9
+e6f7a8b9-c0d1-4f2a-3z4a-5b6c7d8e9f0a,Mexico City,a6b9dbec-2dbf-4a00-9ca5-5fe4ed3dcb0a
+f7a8b9c0-d1e2-4a3b-4a5b-6c7d8e9f0a1b,Guadalajara,b7caecfd-3ec0-4b11-8db6-6af5fe4edc1b
+a8b9c0d1-e2f3-4b4c-5b6c-7d8e9f0a1b2c,Cancún,c8dbfdae-4fd1-4c22-9ec7-7ba6af5fed2c
+b9c0d1e2-f3a4-4c5d-6c7d-8e9f0a1b2c3d,Playa del Carmen,c8dbfdae-4fd1-4c22-9ec7-7ba6af5fed2c
+c0d1e2f3-a4b5-4d6e-7d8e-9f0a1b2c3d4e,Beijing,d9ecafbf-5a22-4d33-8fd8-8cb7ba6afe3d
+d1e2f3a4-b5c6-4e7f-8e9f-0a1b2c3d4e5f,Shanghai,e0fdb0ca-6b33-4e44-9ae9-9dc8cb7baf4e
+e2f3a4b5-c6d7-4f8a-9f0a-1b2c3d4e5f6g,Guangzhou,f1aeca1b-7c44-4f55-8bf0-0ed9dc8cb05f
+f3a4b5c6-d7e8-4a9b-0a1b-2c3d4e5f6g7h,Shenzhen,f1aeca1b-7c44-4f55-8bf0-0ed9dc8cb05f
+a4b5c6d7-e8f9-4b0c-1b2c-3d4e5f6g7h8i,Tokyo,a2bfdb2c-8d55-4a66-9ca1-1fe0ed9dcb6a
+b5c6d7e8-f9a0-4c1d-2c3d-4e5f6g7h8i9j,Osaka,b3c0ec3d-9e66-4b77-8db2-2af1fe0edc7b
+c6d7e8f9-a0b1-4d2e-3d4e-5f6g7h8i9j0k,Sapporo,c4d1fd4e-0f77-4c88-9ec3-3ba2af1fed8c
+d7e8f9a0-b1c2-4e3f-4e5f-6g7h8i9j0k1l,Kyoto,d5e2ae5f-1a88-4d99-8fd4-4cb3ba2afe9d
+e8f9a0b1-c2d3-4f4a-5f6g-7h8i9j0k1l2m,Moscow,e6f3bf6a-2b99-4ea0-9ae5-5dc4cb3baf0e
+f9a0b1c2-d3e4-4a5b-6g7h-8i9j0k1l2m3n,Saint Petersburg,f7a4ca7b-3ca0-4fb1-8bf6-6ed5dc4cba1f
+a0b1c2d3-e4f5-4b6c-7h8i-9j0k1l2m3n4o,Krasnodar,a8b5db8c-4db1-4ac2-9ca7-7fe6ed5dcb2a
+b1c2d3e4-f5a6-4c7d-8i9j-0k1l2m3n4o5p,Sochi,a8b5db8c-4db1-4ac2-9ca7-7fe6ed5dcb2a
+c2d3e4f5-a6b7-4d8e-9j0k-1l2m3n4o5p6q,São Paulo,b9c6ec9d-5ec2-4bd3-8db8-8af7fe6edc3b
+d3e4f5a6-b7c8-4e9f-0k1l-2m3n4o5p6q7r,Rio de Janeiro,c0d7fd0e-6fd3-4ce4-9ec9-9ba8af7fed4c
+e4f5a6b7-c8d9-4f0a-1l2m-3n4o5p6q7r8s,Belo Horizonte,d1e8ae1f-7a44-4df5-8fd0-0cb9ba8afe5d
+f5a6b7c8-d9e0-4a1b-2m3n-4o5p6q7r8s9t,Mumbai,e2f9bf2a-8b55-4ea6-9ae1-1dca0b9baf6e
+a6b7c8d9-e0f1-4b2c-3n4o-5p6q7r8s9t0u,Pune,e2f9bf2a-8b55-4ea6-9ae1-1dca0b9baf6e
+b7c8d9e0-f1a2-4c3d-4o5p-6q7r8s9t0u1v,New Delhi,f3a0ca3b-9c66-4fb7-8bf2-2edb1ca0bb7f
+c8d9e0f1-a2b3-4d4e-5p6q-7r8s9t0u1v2w,Bangalore,a4b1db4c-0d77-4ac8-9ca3-3fedc2b1bc8a
+d9e0f1a2-b3c4-4e5f-6q7r-8s9t0u1v2w3x,Chennai,b5c2ec5d-1e88-4bd9-8db4-4afed3c2bd9b
+e0f1a2b3-c4d5-4f6a-7r8s-9t0u1v2w3x4y,Sydney,c6d3fd6e-2f99-4ce0-9ec5-5b0afed4ce0c
+f1a2b3c4-d5e6-4a7b-8s9t-0u1v2w3x4y5z,Melbourne,d7e4ae7f-3a00-4df1-8fd6-6c1b0affe01d
+a2b3c4d5-e6f7-4b8c-9t0u-1v2w3x4y5z6a,Brisbane,e8f5bf8a-4b11-4ea2-9ae7-7d2c1b0bff2e
+b3c4d5e6-f7a8-4c9d-0u1v-2w3x4y5z6a7b,Medellín,f9a6ca9b-5c22-4fb3-8bf8-8e3d2c1b0a3f
+c4d5e6f7-a8b9-4d0e-1v2w-3x4y5z6a7b8c,Bogotá,a0b7db0c-6d33-4ac4-9ca9-9f4e3d2c1b4a
+d5e6f7a8-b9c0-4e1f-2w3x-4y5z6a7b8c9d,Cali,b1c8ec1d-7e44-4bd5-8db0-0a5f4e3d2c5b
+e6f7a8b9-c0d1-4f2a-3x4y-5z6a7b8c9d0e,Milan,c2d9fd2e-8f55-4ce6-9ec1-1b6a5f4e3d6c
+f7a8b9c0-d1e2-4a3b-4y5z-6a7b8c9d0e1f,Rome,d3e0ae3f-9a66-4df7-8fd2-2c7b6a5f4e7d
+a8b9c0d1-e2f3-4b4c-5z6a-7b8c9d0e1f2g,Venice,e4f1bf4a-0b77-4ea8-9ae3-3d8c7b6a5f8e
+b9c0d1e2-f3a4-4c5d-6a7b-8c9d0e1f2g3h,Florence,f5a2ca5b-1c88-4fb9-8bf4-4e9d8c7b6a9f

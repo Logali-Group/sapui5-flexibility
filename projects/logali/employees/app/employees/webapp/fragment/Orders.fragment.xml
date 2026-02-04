@@ -1,0 +1,49 @@
+<c:FragmentDefinition
+                    xmlns="sap.m"
+                    xmlns:c="sap.ui.core">
+
+        <Table  id="tableOrders"
+                items="{ToOrders}">
+
+            <columns>
+
+                <Column id="colOrderID">
+                    <header>
+                        <Text id="txtOrderID" text="{i18n>orderID}"/>
+                    </header>
+                </Column>
+
+                <Column id="colFreight">
+                    <header>
+                        <Text id="txtFreight" text="{i18n>freight}"/>
+                    </header>
+                </Column>
+
+                <Column id="colShipAddress">
+                    <header>
+                        <Text id="txtShipAddress" text="{i18n>shipAddress}"/>
+                    </header>
+                </Column>
+            
+            </columns>
+
+            <items>
+
+                <ColumnListItem id="columnListItemOrders">
+                
+                    <cells>
+
+                        <Text id="cliTxtOrderID" text="{OrderID}"/>
+                        <Text id="cliTxtFreight" text="{Freight}"/>
+                        <Text id="cliTxtShipAddress" text="{ShipAddress}"/>
+                    
+                    </cells>
+                
+                </ColumnListItem>
+            
+            </items>
+        
+        </Table>
+
+
+</c:FragmentDefinition>

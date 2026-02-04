@@ -1,0 +1,45 @@
+ID,OrderID,CustomerID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,ShipPostalCode,ShipCountry,Employee_ID
+c5e1b2a3-f4d5-4e6f-7a8b-9c0d1e2f3a4b,10248,VINET,2020-07-04,2020-08-01,2020-07-10,3,32.38,"Olivia Miller","59 rue de l'Abbaye","Reims",,51100,"France",01a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c
+f8a9b0c1-d2e3-4f4a-5b6c-7d8e9f0a1b2c,10249,TOMSP,2020-09-15,2020-10-13,2020-09-21,1,11.61,"Olivia Miller","Luisenstr. 48","Münster",,44087,"Germany",01a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,10250,HANAR,2021-01-22,2021-02-19,2021-01-28,2,65.83,"Olivia Miller","120 Hanover Sq.","London",,WA1 1DP,"UK",01a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c
+d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g,10251,VICTE,2021-03-01,2021-03-29,,1,41.34,"Olivia Miller","Vinbæltet 34","København",,1734,"Denmark",01a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c
+e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b,10252,SUPRD,2019-08-12,2019-09-09,2019-08-18,2,51.30,"Liam Jones","Boulevard Tirou, 255","Charleroi",,B-6000,"Belgium",02b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d
+9c8d7e6f-5a4b-4c3d-2e1f-0a9b8c7d6e5f,10253,HANAR,2019-11-20,2019-12-18,2019-11-25,3,58.17,"Liam Jones","Rua do Paço, 67","Rio de Janeiro","RJ",05454-876,"Brazil",02b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d
+7a6b5c4d-3e2f-4a1b-0c9d-8e7f6a5b4c3d,10254,CHOPS,2020-02-05,2020-03-04,2020-02-11,1,22.98,"Liam Jones","Hauptstr. 29","Bern",,3012,"Switzerland",02b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d
+5d4c3b2a-1e0f-4d9c-8b7a-6c5d4e3f2a1b,10255,RICSU,2020-05-18,2020-06-15,,2,148.33,"Liam Jones","Starenweg 5","Genève",,1204,"Switzerland",02b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d
+3b2a1e0f-9d8c-4b7a-6c5d-4e3f2a1b0c9d,10256,WELLI,2021-09-01,2021-09-29,2021-09-07,2,13.97,"Emma Garcia","Rua da Panificadora, 12","São Paulo","SP",05432-043,"Brazil",03c4d5e6-f7a8-4b9c-8d1e-2f3a4b5c6d7e
+1e0f9d8c-7b6a-4c5d-4e3f-2a1b0c9d8e7f,10257,HILAA,2021-11-10,2021-12-08,2021-11-15,3,81.91,"Emma Garcia","Carrera 22 con Ave. Loja","San Cristóbal","Táchira",5001,"Venezuela",03c4d5e6-f7a8-4b9c-8d1e-2f3a4b5c6d7e
+9d8c7b6a-5c4d-4e3f-2a1b-0c9d8e7f6a5b,10258,ERNSH,2022-01-17,2022-02-14,2022-01-23,1,140.51,"Emma Garcia","Kirchgasse 6","Graz",,8010,"Austria",03c4d5e6-f7a8-4b9c-8d1e-2f3a4b5c6d7e
+8c96f1ee-58dd-41b4-adaa-af7caa7b19b3,10259,CENTC,2022-04-20,2022-05-18,,2,3.25,"Emma Garcia","Sierras de Granada 9993","México D.F.",,05022,"Mexico",03c4d5e6-f7a8-4b9c-8d1e-2f3a4b5c6d7e
+c7d2e28f-eb17-4670-97e8-112dbf75a7a0,10260,OTTIK,2022-06-30,2022-07-28,2022-07-05,1,55.09,"Noah Rodriguez","Mehrheimerstr. 369","Köln",,50739,"Germany",04d5e6f7-a8b9-4c0d-9e2f-3a4b5c6d7e8f
+950cf914-2e14-42d4-862e-3f357632f9f0,10261,QUEDE,2022-08-15,2022-09-12,2022-08-21,2,3.05,"Noah Rodriguez","Rua Visconde de Mauá, 251","Resende","RJ",0299-080,"Brazil",04d5e6f7-a8b9-4c0d-9e2f-3a4b5c6d7e8f
+d4f14c42-95d8-4537-99fb-680bddd11622,10262,RATTC,2022-11-01,2022-11-29,2022-11-06,3,48.29,"Noah Rodriguez","2817 Milton Dr.","Albuquerque","NM",87110,"USA",04d5e6f7-a8b9-4c0d-9e2f-3a4b5c6d7e8f
+b3283018-66e9-4f55-b83e-511dded0f58c,10263,ERNSH,2023-01-10,2023-02-07,,1,146.06,"Noah Rodriguez","Kirchgasse 6","Graz",,8010,"Austria",04d5e6f7-a8b9-4c0d-9e2f-3a4b5c6d7e8f
+8e7f6a5b-4c3d-4e2f-1a0b-9c8d7e6f5a4b,10264,FOLKO,2016-01-20,2016-02-17,2016-01-29,3,3.67,"Ava Smith","Åkergatan 24","Bräcke",,S-844,"Sweden",05e6f7a8-b9c0-4d1e-8f3a-4b5c6d7e8f9a
+6a5b4c3d-2e1f-4a0b-9c8d-7e6f5a4b3c2d,10265,BLONP,2016-04-15,2016-05-13,2016-04-22,1,55.28,"Ava Smith","24, place Kléber","Strasbourg",,67000,"France",05e6f7a8-b9c0-4d1e-8f3a-4b5c6d7e8f9a
+4c3d2e1f-0a9b-4c8d-7e6f-5a4b3c2d1e0f,10266,WARTH,2016-07-08,2016-08-05,,3,25.73,"Ava Smith","Torikatu 38","Oulu",,90110,"Finland",05e6f7a8-b9c0-4d1e-8f3a-4b5c6d7e8f9a
+2e1f0a9b-8c7d-4b6a-5a4b-3c2d1e0f9d8c,10267,FRANK,2016-10-02,2016-10-30,2016-10-09,1,208.58,"Ava Smith","Berliner Platz 43","München",,80805,"Germany",05e6f7a8-b9c0-4d1e-8f3a-4b5c6d7e8f9a
+1c0a9b8c-7d6e-4a5b-3a2b-1c0a9b8c7d6e,10268,GROSR,2023-09-01,2023-09-29,2023-09-05,2,66.29,"Lucas Martinez","5ª Ave. Los Palos Grandes","Caracas","Miranda",1080,"Venezuela",06f7a8b9-c0d1-4e2f-9a4b-5c6d7e8f9a0b
+9b8c7d6e-5a4b-4a3b-1a0b-9c8d7e6f5a4b,10269,WHITC,2023-10-11,2023-11-08,2023-10-15,1,4.56,"Lucas Martinez","1029 - 12th Ave. S.","Seattle","WA",98124,"USA",06f7a8b9-c0d1-4e2f-9a4b-5c6d7e8f9a0b
+7d6e5a4b-3c2d-4e1f-0a9b-8c7d6e5a4b3c,10270,WARTH,2023-12-25,2024-01-22,2023-12-30,3,136.54,"Lucas Martinez","Torikatu 38","Oulu",,90110,"Finland",06f7a8b9-c0d1-4e2f-9a4b-5c6d7e8f9a0b
+5a4b3c2d-1e0f-4c9d-8b7a-6a5b4c3d2e1f,10271,SPLIR,2024-02-15,2024-03-14,,2,4.54,"Lucas Martinez","P.O. Box 555","Lander","WY",82520,"USA",06f7a8b9-c0d1-4e2f-9a4b-5c6d7e8f9a0b
+4b3c2d1e-0f9a-4b8c-7a6b-5c4d3e2f1a0b,10272,RATTC,2018-10-19,2018-11-16,2018-10-24,2,98.03,"Mia Hernandez","2817 Milton Dr.","Albuquerque","NM",87110,"USA",07a8b9c0-d1e2-4f3a-8b5c-6d7e8f9a0b1c
+2d1e0f9a-8c7b-4a6b-5c4d-3e2f1a0b9c8d,10273,QUICK,2019-01-05,2019-02-02,2019-01-12,3,76.07,"Mia Hernandez","Taucherstraße 10","Cunewalde",,01307,"Germany",07a8b9c0-d1e2-4f3a-8b5c-6d7e8f9a0b1c
+0f9a8c7b-6a5b-4c4d-3e2f-1a0b9c8d7e6f,10274,VINET,2019-03-16,2019-04-13,,1,6.01,"Mia Hernandez","59 rue de l'Abbaye","Reims",,51100,"France",07a8b9c0-d1e2-4f3a-8b5c-6d7e8f9a0b1c
+8c7b6a5b-4c3d-4e2f-1a0b-9c8d7e6f5a4b,10275,MAGAA,2019-05-21,2019-06-18,2019-05-25,2,26.93,"Mia Hernandez","Via Ludovico il Moro 22","Bergamo",,24100,"Italy",07a8b9c0-d1e2-4f3a-8b5c-6d7e8f9a0b1c
+7b6a5c4d-2e1f-4a0b-9c8d-7e6f5a4b3c2d,10276,TORTU,2016-05-14,2016-06-11,2016-05-21,2,13.84,"Henry Lopez","Avda. Azteca 123","México D.F.",,05033,"Mexico",08b9c0d1-e2f3-4a4b-9c6d-7e8f9a0b1c2d
+5c4d3e2f-0a9b-4c8d-7e6f-5a4b3c2d1e0f,10277,MORGK,2016-08-01,2016-08-29,2016-08-08,3,125.77,"Henry Lopez","Heerstr. 22","Leipzig",,04179,"Germany",08b9c0d1-e2f3-4a4b-9c6d-7e8f9a0b1c2d
+3e2f0a9b-8c7d-4b6a-5a4b-3c2d1e0f9d8c,10278,BERGS,2016-11-20,2016-12-18,2016-11-25,1,92.69,"Henry Lopez","Berguvsvägen 8","Luleå",,S-958 22,"Sweden",08b9c0d1-e2f3-4a4b-9c6d-7e8f9a0b1c2d
+1e0f9d8c-7b6a-4a5b-3a2b-1c0a9b8c7d6e,10279,LEHMS,2017-01-10,2017-02-07,,2,25.83,"Henry Lopez","Magazinweg 7","Frankfurt a.M.",,60528,"Germany",08b9c0d1-e2f3-4a4b-9c6d-7e8f9a0b1c2d
+0a9b8c7d-6e5a-4b3c-2d1e-0f9a8c7d6e5a,10280,BERGS,2022-12-12,2023-01-09,2022-12-18,1,8.98,"Evelyn Gonzalez","Berguvsvägen 8","Luleå",,S-958 22,"Sweden",09c0d1e2-f3a4-4b5c-8d7e-8f9a0b1c2d3e
+8c7d6e5a-4b3c-4a2b-1c0a-9b8c7d6e5a4b,10281,ROMEY,2023-02-01,2023-03-01,2023-02-07,2,2.94,"Evelyn Gonzalez","Gran Vía, 1","Madrid",,28001,"Spain",09c0d1e2-f3a4-4b5c-8d7e-8f9a0b1c2d3e
+6e5a4b3c-2d1e-4c1d-0a9b-8c7d6e5a4b3c,10282,ROMEY,2023-04-14,2023-05-12,,1,12.69,"Evelyn Gonzalez","Gran Vía, 1","Madrid",,28001,"Spain",09c0d1e2-f3a4-4b5c-8d7e-8f9a0b1c2d3e
+4b3c2d1e-0f9a-4b0c-9c8d-7e6f5a4b3c2d,10283,LILAS,2023-06-20,2023-07-18,2023-06-25,3,84.81,"Evelyn Gonzalez","Carrera 52 con Ave. Bolívar #65-98","Barquisimeto","Lara",3001,"Venezuela",09c0d1e2-f3a4-4b5c-8d7e-8f9a0b1c2d3e
+3c2d1e0f-9a8c-4a9b-8b7a-6a5b4c3d2e1f,10284,LEHMS,2024-01-15,2024-02-12,2024-01-21,1,76.56,"Jack Wilson","Magazinweg 7","Frankfurt a.M.",,60528,"Germany",10d1e2f3-a4b5-4c6d-9e8f-9a0b1c2d3e4f
+1e0f9a8c-7b6a-4b8c-7a6b-5c4d3e2f1a0b,10285,QUICK,2024-03-02,2024-03-30,,2,76.83,"Jack Wilson","Taucherstraße 10","Cunewalde",,01307,"Germany",10d1e2f3-a4b5-4c6d-9e8f-9a0b1c2d3e4f
+f9a8c7b6-5a4b-4c7d-6a5b-4c3d2e1f0a9b,10286,QUICK,2024-05-01,2024-05-29,2024-05-04,1,229.24,"Jack Wilson","Taucherstraße 10","Cunewalde",,01307,"Germany",10d1e2f3-a4b5-4c6d-9e8f-9a0b1c2d3e4f
+8c7b6a5b-4c3d-4e6f-5a4b-3c2d1e0f9d8c,10287,RICAR,2024-07-08,2024-08-05,,3,12.76,"Jack Wilson","Av. Copacabana, 267","Rio de Janeiro","RJ",02389-890,"Brazil",10d1e2f3-a4b5-4c6d-9e8f-9a0b1c2d3e4f
+90a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c,10436,TOMSP,2010-01-15,2010-02-12,2010-01-18,2,23.72,"Claire Watson","Luisenstr. 48","Münster",,44087,"Germany",50b5c6d7-e8f9-4a0b-9c2d-3e4f5a6b7c8d
+d1e2f3a4-b5c6-4e7f-8g9h-0i1j2k3l4m5n,10437,SUPRD,2010-04-20,2010-05-18,,1,108.24,"Claire Watson","Boulevard Tirou, 255","Charleroi",,B-6000,"Belgium",50b5c6d7-e8f9-4a0b-9c2d-3e4f5a6b7c8d
+e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8g9h,10438,VICTE,2010-08-01,2010-08-29,2010-08-06,2,8.04,"Claire Watson","Vinbæltet 34","København",,1734,"Denmark",50b5c6d7-e8f9-4a0b-9c2d-3e4f5a6b7c8d
+f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8g9h0i,10439,CHOPS,2010-11-10,2010-12-08,2010-11-13,1,89.93,"Claire Watson","Hauptstr. 29","Bern",,3012,"Switzerland",50b5c6d7-e8f9-4a0b-9c2d-3e4f5a6b7c8d

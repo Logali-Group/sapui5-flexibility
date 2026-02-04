@@ -1,0 +1,306 @@
+<mvc:View 
+            controllerName="com.logaligroup.employees.controller.Master"
+            xmlns="sap.m"
+            xmlns:f="sap.f"
+            xmlns:core="sap.ui.core" 
+            xmlns:mvc="sap.ui.core.mvc"
+            xmlns:fb="sap.ui.comp.filterbar"
+            xmlns:vm="sap.ui.comp.variants">
+
+        <f:DynamicPage id="masterPage">
+        
+            <f:title>
+                <f:DynamicPageTitle id="masterPageTitle">
+
+                    <f:heading>
+
+                        <Title      id="appTitle" 
+                                    level="H1"
+                                    text="{i18n>appTitle}"
+                                    wrapping="true"/>
+                    </f:heading>
+
+                    <f:content>
+                        <VariantManagement id="variantManagement" 
+                                            for="filterbar,table" />
+                    </f:content>
+                
+                </f:DynamicPageTitle>
+            </f:title>
+
+            <f:header>
+            
+                <f:DynamicPageHeader id="masterPageHeader">
+
+                    <fb:FilterBar id="filterbar"
+                                    search="onSearchPress"
+                                    showClearOnFB="true"
+                                    clear="onClearPress">
+                    
+                        <fb:filterGroupItems>
+
+                            <fb:FilterGroupItem
+                                                id="fgiEmployee" 
+                                                groupName="filters"
+                                                name="employee"
+                                                label="{i18n>employee}"
+                                                visibleInFilterBar="true">
+                                <fb:control>
+
+                                    <Input id="inpEmployee" 
+                                            placeholder="{i18n>employeePlaceholder}"/>
+                                
+                                </fb:control>
+                            
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem 
+                                                id="fgiCountry"
+                                                groupName="filters"
+                                                name="country"
+                                                label="{i18n>country}"
+                                                visibleInFilterBar="true">
+                                <fb:control>
+
+                                    <MultiInput
+                                            id="inputCountries"
+                                            placeholder="{i18n>countryPlaceholder}"
+                                            autocomplete="false"
+                                            showSuggestion="true"
+                                            showValueHelp="true"
+                                            valueHelpRequest="onValueHelpRequest"
+                                            tokenUpdate="onTokenUpdate"
+                                            suggestionItems="{/VH_Countries}">
+                                        <suggestionItems>
+                                            <core:Item id="itemCountries" 
+                                                        key="{ID}" 
+                                                        text="{Country}"/>
+                                        </suggestionItems>
+                                    </MultiInput>
+                                
+                                </fb:control>
+                            
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem id="fgiRegion"
+                                                groupName="filters" 
+                                                name="region" 
+                                                label="{i18n>region}" 
+                                                visibleInFilterBar="true">
+                                <fb:control>
+                                    <MultiComboBox
+                                        id="mcbRegion"
+                                        width="100%"
+                                        placeholder="{i18n>regionPlaceholder}"
+                                        enabled="false"
+                                        items="{/VH_Regions}"
+                                        selectionChange="onRegionSelectionChange">
+                                        <core:Item id="itemRegions" 
+                                                    key="{ID}" 
+                                                    text="{Region}" />
+                                    </MultiComboBox>
+                                </fb:control>
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem id="fgiCity"
+                                                groupName="filters" 
+                                                name="city" 
+                                                label="{i18n>city}" 
+                                                visibleInFilterBar="true">
+                                <fb:control>
+                                    <MultiComboBox
+                                        id="mcbCity"
+                                        width="100%"
+                                        placeholder="{i18n>cityPlaceholder}"
+                                        enabled="false"
+                                        items="{/VH_Cities}">
+                                        <core:Item id="itemCities"
+                                                    key="{ID}" 
+                                                    text="{City}" />
+                                    </MultiComboBox>
+                                </fb:control>
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem id="fgiBirthDate"
+                                                groupName="filters" 
+                                                name="birthDate" 
+                                                label="{i18n>birthDate}" 
+                                                visibleInFilterBar="true">
+                                <fb:control>
+                                    <DateRangeSelection
+                                                        id="drsBirthDate"
+                                                        displayFormat="dd/MM/yyyy"
+                                                        placeholder="{i18n>birthDatePlaceholder}"
+                                                        delimiter="-"/>
+                                </fb:control>
+
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem  id="fgiTitle"
+                                                groupName="filters" 
+                                                name="title" 
+                                                label="{i18n>title}" 
+                                                visibleInFilterBar="true">
+
+                                <fb:control>
+                                    <MultiComboBox
+                                        id="mcbTitle"
+                                        width="100%"
+                                        placeholder="{i18n>titlePlaceholder}"
+                                        items="{/VH_Titles}">
+                                        <core:Item  id="itemTitles"
+                                                    key="{ID}" 
+                                                    text="{Title}" />
+                                    </MultiComboBox>
+                                </fb:control>
+
+                            </fb:FilterGroupItem>
+
+                            <fb:FilterGroupItem id="fgiStatus" 
+                                        groupName="filters" 
+                                        name="status" 
+                                        label="{i18n>status}" 
+                                        visibleInFilterBar="true">
+
+                                <fb:control>
+                                    <MultiComboBox
+                                        id="mcbStatus"
+                                        width="100%"
+                                        placeholder="{i18n>statusPlaceholder}"
+                                        items="{/VH_Status}">
+                                        <core:Item  id="itemStatus"
+                                                    key="{Code}" 
+                                                    text="{name}" />
+                                    </MultiComboBox>
+                                </fb:control>
+
+                            </fb:FilterGroupItem>
+                        
+                        </fb:filterGroupItems>
+                    
+                    </fb:FilterBar>
+                    
+                
+                </f:DynamicPageHeader>
+            
+            </f:header>
+
+
+            <f:content>
+
+                <Table  id="table"
+                        inset="false"
+                        items="{
+                            path: '/Employees',
+                            parameters: {
+                                expand: 'Title,Status,Country,Region,City'
+                            }
+                        }"
+                        class="sapUiResponsiveMargin"
+                        width="auto">
+
+                    <headerToolbar>
+
+                        <Toolbar id="tableToolbar">
+
+                            <Title id="tableTitle"
+                                core:require="{
+                                    Formatter: 'com/logaligroup/employees/model/formatter'
+                                }"
+                                text="{
+                                    path : 'viewContainer>/title',
+                                    formatter: 'Formatter.titleFormatter.bind($controller)'
+                                }"
+                                level="H2"
+                                wrapping="true"/>
+
+                            <ToolbarSpacer id="tableToolbarSpacer"/>
+
+                            <Button  
+                                    id="downloadButton" 
+                                    icon="sap-icon://excel-attachment"
+                                    tooltip="{i18n>download}"
+                                    press="onDownloadPress"
+                                    type="Emphasized"/>
+
+                        </Toolbar>
+                        
+                    </headerToolbar>
+
+                    <columns>
+                        <Column id="colPhoto" width="4rem">
+                            <Label id="labPhoto" text="{i18n>colPhoto}" />
+                        </Column>
+                        <Column id="colEmployee" minScreenWidth="Small" 
+                                demandPopin="true">
+                            <Label id="labEmployee" text="{i18n>colEmployee}" />
+                        </Column>
+                        <Column id="colTitle" minScreenWidth="Small" 
+                                demandPopin="true">
+                            <Label id="labTitle" text="{i18n>colTitle}" />
+                        </Column>
+                        <Column id="colCountry" minScreenWidth="Small" 
+                                demandPopin="true">
+                            <Label id="labCountry" text="{i18n>colCountry}" />
+                        </Column>
+                        <Column id="colRegion" minScreenWidth="Small" 
+                                demandPopin="true">
+                            <Label id="labRegion" text="{i18n>colRegion}" />
+                        </Column>
+                        <Column id="colCity"  minScreenWidth="Small" 
+                                demandPopin="true">
+                            <Label id="labCity" text="{i18n>colCity}" />
+                        </Column>
+                        <Column id="colBirthDate" minScreenWidth="Small" 
+                                demandPopin="true" 
+                                hAlign="Center">
+                            <Label id="labBirthDate" text="{i18n>colBirthDate}" />
+                        </Column>
+                        <Column id="colStatus" hAlign="Center">
+                            <Label id="lblStatus" text="{i18n>colStatus}" />
+                        </Column>
+                    </columns>
+
+                    <items>
+                        <ColumnListItem id="cliTable"
+                                        vAlign="Middle"
+                                        type="Navigation"
+                                        press="onNavToDetails">
+                            <cells>
+                                <Avatar id="avtPhoto" src="{Image}" displaySize="S"/>
+                                <ObjectIdentifier id="oiFullName" title="{FullName}"/>
+                                <Text id="txtTitle" text="{Title/Title}"/>
+                                <Text id="txtCountry"
+                                    core:require="{Formatter: 'com/logaligroup/employees/model/formatter'}"
+                                    text="{
+                                        path: 'Country/Country'
+                                    }"/>
+                                <Text id="txtRegion" text="{Region/Region}"/>
+                                <Text id="txtCity" text="{City/City}"/>
+                                <Text id="txtBirthDate"
+                                    core:require="{Formatter: 'com/logaligroup/employees/model/formatter'}"
+                                    text="{
+                                        path: 'BirthDate',
+                                        formatter: 'Formatter.formatDate'
+                                    }"/>
+                                <ObjectStatus id="osStatus"
+                                    core:require="{Formatter: 'com/logaligroup/employees/model/formatter'}"
+                                    text="{
+                                        path: 'Status_Code',
+                                        formatter: 'Formatter.statusText.bind($controller)'
+                                    }"
+                                    state="{
+                                        path: 'Status',
+                                        formatter: 'Formatter.statusState'
+                                    }"/>
+                            </cells>
+                        </ColumnListItem>
+                    </items>
+
+                </Table>
+
+            </f:content>
+        
+        </f:DynamicPage>
+
+</mvc:View>

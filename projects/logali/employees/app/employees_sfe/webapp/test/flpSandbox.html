@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{appTitle}}</title>
+
+    <script type="text/javascript">
+        window["sap-ushell-config"] = {
+            defaultRenderer: "fiori2",
+            bootstrapPlugins: {
+                "RuntimeAuthoringPlugin": {
+                    component: "sap.ushell.plugins.rta",
+                    config: {
+                        validateAppVersion: false
+                    }
+                }
+            },
+            renderers: {
+                fiori2: {
+                    componentData: {
+                        config: {
+                            search: "hidden",
+                            enableSearch: false
+                        }
+                    }
+                }
+            },
+            applications: {
+                "comlogaligroupemployeessfe-tile": {
+                    title: "Employees",
+                    description: "Employees",
+                    additionalInformation: "SAPUI5.Component=com.logaligroup.employeessfe",
+                    applicationType: "URL",
+                    url: "../"
+                }
+            }
+        };
+    </script>
+
+    <script src="https://sapui5.hana.ondemand.com/1.136.14/test-resources/sap/ushell/bootstrap/sandbox.js" id="sap-ushell-bootstrap"></script>
+    
+    <script id="sap-ui-bootstrap"
+        src="https://sapui5.hana.ondemand.com/1.136.14/resources/sap-ui-core.js"
+        data-sap-ui-libs="sap.m, sap.ushell, sap.ui.core, sap.ui.layout"
+        data-sap-ui-async="true"
+        data-sap-ui-preload="async"
+        data-sap-ui-theme="sap_horizon"
+        data-sap-ui-compatVersion="edge"
+        data-sap-ui-language="en"
+        data-sap-ui-resourceroots='{"com.logaligroup.employeessfe": "../"}'
+        data-sap-ui-frameOptions="allow"
+        data-sap-ui-flexibilityServices='[{"connector": "LocalStorageConnector"}]'></script>
+
+    <script>
+        sap.ui.getCore().attachInit(function () {
+            sap.ui.require([
+                "sap/ushell/Container"
+            ], function (Container) {
+                if (Container) {
+                    Container.createRenderer().placeAt("content");
+                } else {
+                    sap.ushell.Container.createRenderer().placeAt("content");
+                }
+            });
+        });
+    </script>
+</head>
+
+<body class="sapUiBody" id="content">
+
+</body>
+
+</html>

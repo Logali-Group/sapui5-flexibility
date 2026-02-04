@@ -1,0 +1,4 @@
+Code,name,descr,criticality
+Active,Activo,Activo,3
+OnLeave,De Permiso,De Permiso,2
+Inactive,Inactivo,Inactivo,1
