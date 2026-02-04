@@ -2,7 +2,7 @@
   "name": "employees",
   "version": "1.0.0",
   "description": "Service OData - Employees UI",
-  "repository": "",
+  "repository": "https://github.com/Logali-Group/sapui5-flexibility.git",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
